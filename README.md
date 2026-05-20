@@ -1,0 +1,2 @@
+# HEALTHCARE-INFRASTRUCTURE-GAP-ANALYSIS-SOUTHWESTERN-ONTARIO-CORRIDOR
+This project analyzes healthcare facility distribution across the London-Waterloo corridor using the Open Database of Healthcare Facilities (ODHF). The analysis focuses on identifying regional service gaps, healthcare accessibility challenges, and infrastructure imbalance across high-growth municipalities in Southwestern Ontario.
