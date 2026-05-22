@@ -24,6 +24,8 @@ This corridor was selected because it combines a major healthcare hub (London) w
 
 ## TECH STACK
 
+![](tech_stack.png)
+
 •	Python (Pandas, Matplotlib): Used for advanced data cleaning, handling lowercase city standardization, and exploratory data analysis (EDA).
 
 •	PostgreSQL: Engineered a relational database schema, handled complex WIN1252 encoding for data integrity, and built a Semantic Layer using SQL Views.
@@ -48,7 +50,7 @@ The vast majority of records in this dataset are tracked at the Provincial level
  
 **• Federal/Professional Bodies:** Organizations like the Public Health Agency of Canada (682) and the Canadian Institute for Health Information (474) provide a significant layer of professional tracking.
 
-**•Municipal Tracking:** While smaller, municipal bodies like the City of Moncton (74) and Municipality of Québec (5) track localized data that might otherwise be missed by provincial systems.
+**• Municipal Tracking:** While smaller, municipal bodies like the City of Moncton (74) and Municipality of Québec (5) track localized data that might otherwise be missed by provincial systems.
 
 **2. The Power of Simplification**
 
