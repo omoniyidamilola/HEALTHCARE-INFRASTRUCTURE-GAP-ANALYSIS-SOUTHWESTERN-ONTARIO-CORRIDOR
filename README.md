@@ -43,6 +43,7 @@ The dataset contained inconsistent facility categories, missing source labels, c
  
 **1. Data Source Tracking**
 The vast majority of records in this dataset are tracked at the Provincial level, but there is a distinct mix of municipal and professional oversight.
+
 **•	Provincial Government (Ontario):** Tracks the largest share with 2,695 facilities.
  
 **Federal/Professional Bodies:** Organizations like the Public Health Agency of Canada (682) and the Canadian Institute for Health Information (474) provide a significant layer of professional tracking.
