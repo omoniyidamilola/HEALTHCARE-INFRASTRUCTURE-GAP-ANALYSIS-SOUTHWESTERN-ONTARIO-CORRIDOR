@@ -46,13 +46,14 @@ The vast majority of records in this dataset are tracked at the Provincial level
 
 **•	Provincial Government (Ontario):** Tracks the largest share with 2,695 facilities.
  
-**Federal/Professional Bodies:** Organizations like the Public Health Agency of Canada (682) and the Canadian Institute for Health Information (474) provide a significant layer of professional tracking.
+**• Federal/Professional Bodies:** Organizations like the Public Health Agency of Canada (682) and the Canadian Institute for Health Information (474) provide a significant layer of professional tracking.
 
-**Municipal Tracking:** While smaller, municipal bodies like the City of Moncton (74) and Municipality of Québec (5) track localized data that might otherwise be missed by provincial systems.
+**•Municipal Tracking:** While smaller, municipal bodies like the City of Moncton (74) and Municipality of Québec (5) track localized data that might otherwise be missed by provincial systems.
 
 **2. The Power of Simplification**
 
 The transformation from raw data to the harmonized ODHF format is a massive exercise in data reduction and clarity.
+
 **Categorical Reduction:** I reduced 174 inconsistent source facility types into 3 harmonized healthcare categories, removing approximately 97% of categorical complexity. Additionally, I recovered 19.2% of records with missing source labels by using the ODHF harmonized categories instead of deleting incomplete records.
 
  
@@ -74,18 +75,13 @@ The analysis identified a healthcare infrastructure imbalance across the Southwe
 Waterloo demonstrated strong specialization in mental health and community support services, while Woodstock displayed lower healthcare density and reduced accessibility to hospital infrastructure.
 
 ## STRATEGIC RECOMMENDATIONS
-Increase ambulatory healthcare investment in high-growth municipalities.
+•	Increase ambulatory healthcare investment in high-growth municipalities.
 
-Improve healthcare accessibility in lower-density areas such as Woodstock outskirts.
+• Improve healthcare accessibility in lower-density areas such as Woodstock outskirts.
 
-Expand decentralized healthcare services to reduce dependency on London hospitals.
+• Expand decentralized healthcare services to reduce dependency on London hospitals.
 
-Prioritize preventative and outpatient care infrastructure alongside long-term care expansion.
+•	Prioritize preventative and outpatient care infrastructure alongside long-term care expansion.
 
 ## CONCLUSION
-This project demonstrates how data engineering, SQL analysis, and Power BI visualization can support healthcare infrastructure planning and public health decision-making. By harmonizing fragmented healthcare categories and identifying regional service gaps, the analysis provides actionable insights for strategic healthcare investment across Southwestern Ontario.
-
-
-
-
 This project demonstrates how data engineering, SQL analysis, and Power BI visualization can support healthcare infrastructure planning and public health decision-making. By harmonizing fragmented healthcare categories and identifying regional service gaps, the analysis provides actionable insights for strategic healthcare investment across Southwestern Ontario.
