@@ -58,7 +58,7 @@ The transformation from raw data to the harmonized ODHF format is a massive exer
 
 **Categorical Reduction:** I reduced 174 inconsistent source facility types into 3 harmonized healthcare categories, removing approximately 97% of categorical complexity. Additionally, I recovered 19.2% of records with missing source labels by using the ODHF harmonized categories instead of deleting incomplete records.
 
-##Southwestern Ontario Corridor Power BI Dashboard
+## Southwestern Ontario Corridor Power BI Dashboard
  ![](odhf_report.png)
 
  ![](odhf_report_2.png)
