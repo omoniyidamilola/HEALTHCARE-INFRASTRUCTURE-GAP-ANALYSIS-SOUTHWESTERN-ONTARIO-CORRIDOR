@@ -7,6 +7,13 @@ This project analyzes healthcare facility distribution across the London-Waterlo
 
 The London-Waterloo corridor combines a major healthcare hub (London) with rapidly growing municipalities such as Kitchener, Waterloo, Cambridge, Woodstock, and Guelph. This project evaluates whether healthcare infrastructure is scaling effectively with regional growth.
 
+## Why This Matters
+Ontario is growing and infrastructure demand is increasing. Southwestern Ontario major cities and growing communities connected through an important regional corridor. 
+
+Healthcare accessibility may not grow evenly across all municipalities. Healthcare accessibility is not only about the numbers of hospitals available, but also how easily growing populations can reach essential services.
+
+Data analysis and Visualization can help identify areas that may require more infrastructure attention in the future.
+
 ## Why did I choose these cities?
 This corridor was selected because it combines a major healthcare hub (London) with rapidly growing municipalities in the Waterloo Region, enabling comparative infrastructure analysis across urban growth patterns. 
 
@@ -90,4 +97,10 @@ Waterloo demonstrated strong specialization in mental health and community suppo
 •	Prioritize preventative and outpatient care infrastructure alongside long-term care expansion.
 
 ## CONCLUSION
-This project demonstrates how data engineering, SQL analysis, and Power BI visualization can support healthcare infrastructure planning and public health decision-making. By harmonizing fragmented healthcare categories and identifying regional service gaps, the analysis provides actionable insights for strategic healthcare investment across Southwestern Ontario.
+This project demonstrates how data engine
+ering, SQL analysis, and Power BI visualization can support healthcare infrastructure planning and public health decision-making. By harmonizing fragmented healthcare categories and identifying regional service gaps, the analysis provides actionable insights for strategic healthcare investment across Southwestern Ontario.
+
+Link to the Medium Article [Here](https://medium.com/@innocentdamilola45/healthcare-infrastructure-gap-analysis-southwestern-ontario-corridor-1ca8950d120f)
+
+
+
